@@ -1,7 +1,12 @@
 # REST API for an E-Commerce Application
 
+* We have developed this REST API for an e-commerce application. This API performs all the fundamental CRUD operations of any e-commerce platform with user validation at every step.
 * This project is developed by a team of 5 members during our project week in Masai School, Bengaluru. 
-* We have developed a REST API for an e-commerce platform. This API performs the fundamental operations of any e-commerce platform with user validation at every step.
+
+
+## E-R Diagram for the application
+
+![E-R Diagram](./ER%20Diagram/E-Commerce%20API%20ER%20Diagram.jpeg?raw=true)
 
 ## Tech Stack
 
@@ -10,7 +15,7 @@
 * Spring Boot
 * Spring Data JPA
 * Hibernate
-* MySQL (to persist data in database)
+* MySQL
 
 ## Modules
 
